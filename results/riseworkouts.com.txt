@@ -1,0 +1,31 @@
+checking : https://get.riseworkouts.com/articles/
+GTM FOUND
+*********************************
+
+checking : https://get.riseworkouts.com/
+GTM FOUND
+*********************************
+
+checking : https://get.riseworkouts.com/sit-to-fit/
+GTM FOUND
+*********************************
+
+checking : https://get.riseworkouts.com/careers/
+GTM FOUND
+*********************************
+
+checking : https://get.riseworkouts.com/contact/
+GTM FOUND
+*********************************
+
+checking : https://get.riseworkouts.com/healthy-made-simple/
+GTM FOUND
+*********************************
+
+checking : https://get.riseworkouts.com/why-your-weight-wont-budge/
+GTM FOUND
+*********************************
+
+checking : https://get.riseworkouts.com/cdn-cgi/l/email-protection
+GTM not found
+*********************************

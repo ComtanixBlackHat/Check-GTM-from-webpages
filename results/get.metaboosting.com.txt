@@ -1,0 +1,27 @@
+checking : https://get.metaboosting.com/
+GTM FOUND
+*********************************
+
+checking : https://get.metaboosting.com/articles/https://get.metaboosting.com/contact/
+GTM not found
+*********************************
+
+checking : https://get.metaboosting.com/careers/
+GTM FOUND
+*********************************
+
+checking : https://get.metaboosting.com/sit-to-fit/
+GTM FOUND
+*********************************
+
+checking : https://get.metaboosting.com/healthy-made-simple/
+GTM FOUND
+*********************************
+
+checking : https://get.metaboosting.com/cdn-cgi/l/email-protection
+GTM not found
+*********************************
+
+checking : https://get.metaboosting.com/why-your-weight-wont-budge/
+GTM FOUND
+*********************************

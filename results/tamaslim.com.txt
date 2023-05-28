@@ -1,0 +1,27 @@
+checking : https://www.tamaslim.com
+GTM FOUND
+*********************************
+
+checking : https://www.tamaslim.com/contact/
+GTM FOUND
+*********************************
+
+checking : https://www.tamaslim.com/articles/
+GTM FOUND
+*********************************
+
+checking : https://www.tamaslim.com/cdn-cgi/l/email-protection
+GTM not found
+*********************************
+
+checking : https://www.tamaslim.com/careers/
+GTM FOUND
+*********************************
+
+checking : https://www.tamaslim.com/sit-to-fit/
+GTM FOUND
+*********************************
+
+checking : https://www.tamaslim.com/docs/terms.html
+GTM not found
+*********************************
